@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@library.com",
+      "password": "demo123"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "year": 1988,
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "description": "A shepherd boy named Santiago travels from Spain to Egypt in search of treasure and learns to follow his dreams."
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Technology",
+      "year": 2008,
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "description": "A handbook of agile software craftsmanship with practical advice on writing readable, maintainable code."
+    },
+    {
+      "id": 3,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "year": 2011,
+      "available": false,
+      "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+      "description": "A brief history of humankind, from the Stone Age to the modern age."
+    },
+    {
+      "id": 4,
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "category": "Science",
+      "year": 1988,
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
+      "description": "An accessible tour of cosmology, black holes, and the nature of time."
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "year": 1997,
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg",
+      "description": "A young boy discovers he is a wizard and begins his journey at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "id": 6,
+      "title": "Wings of Fire",
+      "author": "A.P.J. Abdul Kalam",
+      "category": "Biography",
+      "year": 1999,
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9788173711466-L.jpg",
+      "description": "The autobiography of India's former President and missile scientist, Dr. A.P.J. Abdul Kalam."
+    },
+    {
+      "id": 7,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "year": 2018,
+      "available": false,
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "description": "An easy and proven way to build good habits and break bad ones through tiny changes."
+    },
+    {
+      "id": 8,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "category": "Technology",
+      "year": 1999,
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg",
+      "description": "Classic advice on becoming a more effective and adaptable software developer."
+    }
+  ],
+  "favorites": []
+}
